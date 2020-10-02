@@ -1,2 +1,2 @@
 # Clases-20-21
-clases TIC
+clases TIC 3 horas a la semana.
